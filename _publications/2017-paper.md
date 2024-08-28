@@ -3,6 +3,7 @@ title: "Improving SAT Solver Performance with Structure-Based Preferential Bumpi
 collection: publications
 category: manuscripts
 permalink: /publication/2017-paper
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2017
 venue: 'Global Conference on Artificial Intelligence (GCAI)'
 paperurl: 'http://simajam.github.io/files/GCAI17.pdf'
