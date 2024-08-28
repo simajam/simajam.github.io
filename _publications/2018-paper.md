@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publications/2018-paper
 excerpt: 'Sima Jamali and David Mitchell'
 date: 2018-01-01
-venue: 'International Conference on Theory and Applications of Satisfiability Testing (SAT)'
+venue: 'The International Conference on Theory and Applications of Satisfiability Testing (SAT)'
 paperurl: 'http://simajam.github.io/files/sat18.pdf'
 ---
 
