@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Innovative Clause Database Management Strategy for SAT Solvers"
+excerpt: "Conducted in-depth analysis of learnt clauses in CDCL solvers and Developed advanced techniques in clause database management, leading to enhanced solver efficiency.<br/><img src='/images/sat2.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+- Analyzed learnt clauses in CDCL SAT solvers using various criteria to assess their significance in conflict analysis.
+- Developed and implemented a novel clause management strategy for solvers.
