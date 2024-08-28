@@ -1,6 +1,6 @@
 ---
 title: "Location-Aware Restaurant Recommendations on Google Maps Data"
-excerpt: "Enhanced recommendations by leveraging matrix factorization models to prioritize location relevance. (Python. TensorFlow, Jupyter Notebooks)<br/><img src='/images/res.png' width='450'  height='180' >"
+excerpt: "Enhanced recommendations by leveraging matrix factorization models to prioritize location relevance.<br/><img src='/images/res.png' width='450'  height='180' >"
 collection: portfolio
 ---
 
