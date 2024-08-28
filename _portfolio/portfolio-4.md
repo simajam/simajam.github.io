@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "A Crowdsourcing Interface for Object Localization"
+excerpt: "Leveraged crowd power for object localization tasks.<br/><img src='/images/face.png' width='450' height='280' >"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+- Implemented a platform to use crowdsourcing techniques in object detection and created a new object database using the results for future tasks.
