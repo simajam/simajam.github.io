@@ -2,7 +2,7 @@
 title: "Centrality-Based Improvements to CDCL Heuristics"
 collection: publications
 category: manuscripts
-permalink: /publication/2018-paper
+permalink: /publications/2018-paper
 date: 2018
 venue: 'International Conference on Theory and Applications of Satisfiability Testing (SAT)'
 paperurl: 'http://simajam.github.io/files/sat18.pdf'
