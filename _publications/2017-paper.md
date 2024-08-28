@@ -2,7 +2,7 @@
 title: "Improving SAT Solver Performance with Structure-Based Preferential Bumping"
 collection: publications
 category: manuscripts
-permalink: /publication/2017-paper
+permalink: /publication/2009-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2017
 venue: 'Global Conference on Artificial Intelligence (GCAI)'
