@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publications/2017-paper
 excerpt: 'Sima Jamali and David Mitchell'
 date: 2017-01-01
-venue: 'Global Conference on Artificial Intelligence (GCAI)'
+venue: 'The Global Conference on Artificial Intelligence (GCAI)'
 paperurl: 'http://simajam.github.io/files/GCAI17.pdf'
 ---
 
