@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Location-Aware Restaurant Recommendations on Google Maps Data"
+excerpt: "Enhanced recommendations by leveraging matrix factorization models to prioritize location relevance. (Python. TensorFlow, Jupyter Notebooks)<br/><img src='/images/res.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+- Analyzed geographical data to assess the impact of location on the recommended restaurants, uncovering trends and patterns in user preferences.
+- Developed and implemented a framework aimed at increasing locality in recommendations, improving the relevance of suggestions based on user proximity.
+- Investigated popularity bias in recommender systems to enhance fairness.
