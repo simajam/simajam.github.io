@@ -1,6 +1,6 @@
 ---
 title: "Innovative Clause Database Management Strategy for SAT Solvers"
-excerpt: "Conducted in-depth analysis of learnt clauses in CDCL solvers and Developed advanced techniques in clause database management, leading to enhanced solver efficiency.<br/><img src='/images/sat2.png'>"
+excerpt: "Conducted in-depth analysis of learnt clauses in CDCL solvers and Developed advanced techniques in clause database management, leading to enhanced solver efficiency.<br/><img src='/images/sat2.png' width='450' height='280' >"
 collection: portfolio
 ---
 
