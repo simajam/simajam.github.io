@@ -17,7 +17,7 @@ I have a broad interest in software development, particularly in areas such as a
 I have been honored with the following awards and recognitions
 ------
 
-- Two-Year Postdoctoral Fellowship** for research in machine learning and data science (2022-2024)
+- Two-Year Postdoctoral Fellowship for research in machine learning and data science (2022-2024)
 - Helmut & Hugo Eppich Family Graduate Scholarship (2017-2021)
 - SFU Graduate Fellowship (2015-2018)
 - Ralph Howatt Family Graduate Scholarship (2019)
