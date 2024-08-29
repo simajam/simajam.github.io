@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p style="text-align: justify;">
-I am a postdoctoral researcher at <a href="(https://ucsd.edu/)"> UCSD</a> [UCSD](https://ucsd.edu/), working at the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu/). I obtained my PhD in Computer Science under the supervision of [David Mitchell](https://www.cs.sfu.ca/~mitchell/) at [Simon Fraser University](https://www.sfu.ca/). I also completed my master’s degree in Artificial Intelligence at the Computer Science Department of [Sharif University of Technology](https://en.sharif.ir/).<br>
+I am a postdoctoral researcher at <a href="https://ucsd.edu/"> UCSD</a> [UCSD](https://ucsd.edu/), working at the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu/). I obtained my PhD in Computer Science under the supervision of [David Mitchell](https://www.cs.sfu.ca/~mitchell/) at [Simon Fraser University](https://www.sfu.ca/). I also completed my master’s degree in Artificial Intelligence at the Computer Science Department of [Sharif University of Technology](https://en.sharif.ir/).<br>
 
 I have a broad interest in software development, particularly in areas such as algorithm design, optimization, and machine learning. My research focuses on developing scalable and efficient computational solutions to complex problems, with a strong emphasis on practical applications in artificial intelligence and data science. Throughout my academic journey, I have worked on a variety of projects ranging from SAT solver optimizations to location-based recommendation systems, constantly striving to bridge the gap between theoretical advancements and real-world implementations.
 </p>
