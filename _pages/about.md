@@ -17,7 +17,7 @@ I have a broad interest in software development, particularly in areas such as a
 I have been honored with the following awards and recognitions
 ------
 
-- Postdoctoral Fellowship for research in machine learning and data science (2022-2024)
+- Postdoctoral Fellowship for research in Machine Learning and Data Science (2022-2024)
 - 2nd Place SAT solver in SAT Competitions (2021)
 - Helmut & Hugo Eppich Family Graduate Scholarship (2017-2021)
 - SFU Graduate Fellowship (2015-2018)
